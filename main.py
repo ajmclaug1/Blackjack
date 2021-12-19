@@ -5,7 +5,7 @@
 
 import random
 import sys
-
+4
 class blackjack:
   def __init__(self):
     pass
